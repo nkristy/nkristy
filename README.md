@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kristy Nguyen
-- 👀 I’m interested in computer science, pcs, video games, art, etc..
+- 👀 I’m interested in computer science, computers, video games, art, etc..
 - 🌱 I’m currently learning HTML, CSS, and Java
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like green aliens
