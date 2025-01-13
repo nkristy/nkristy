@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Kristy Nguyen
-- 👀 I’m interested in computer science, computers, video games, art, etc..
+- 👋 Hello, I’m Kristy Nguyen
+- 👀 I’m interested in computer engineering, video games, crochet, etc..
 - 🌱 I’m currently learning HTML, CSS, and Java
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I like green aliens
+- ⚡ Languages I know: C, C++, Python
 
 <!---
 nkristy/nkristy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
